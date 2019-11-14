@@ -1,0 +1,133 @@
+0. ⲁ̇ ⲩ ⲕⲏⲡⲏ ϩⲉ ϩⲛ̇ ϣⲓ̇ⲏⲧ ⲉ̇ⲧⲃⲉ ⲟⲩ ⲁ̇ⲡⲟⲧ ⲛ ⲏⲣⲡ̇ 
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+1. ⲟⲩⲟ̇ⲉⲓ̇ϣ ⲛ̇ϭⲓ̇ ⲡⲉ ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛ̇ ϣⲓ̇ ⲏⲧ ϣⲁ ⲡ ⲁⲣⲭⲏⲉ̇ⲡⲓ̇ⲥ ⲕⲟⲡⲟⲥ ⲛ̇ 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 019: Presbyter
+	meta::document_cts_urn	urn:cts:copticLit:ap.19.monbeg
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+2. ⲛ̇ⲧⲉⲣⲉ ϥ ⲕ̇ⲧⲟ ϥ̇ ⲉ̇ ϣⲓ̇ⲏⲧ ⸱ ⲁ̇ ⲩ ϫⲛⲟⲩ ϥ 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 019: Presbyter
+	meta::document_cts_urn	urn:cts:copticLit:ap.19.monbeg
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+3. ⲁ ⲩ ϫⲟⲟ̇ ⲥ ϩⲛ̇ ϣⲓ̇ⲏⲧ ⲉⲧ̇ ⲃⲉ ⲁ̇ⲡⲁ ⲇⲁⲛⲓ̇ⲏⲗ . 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 055: Daniel 1
+	meta::document_cts_urn	urn:cts:copticLit:ap.55.monbeg
+	meta::version_n	2.7.0
+	meta::version_date	2019-05-31
+
+4. ⲟⲩⲟ̇ⲉⲓ̇ϣ ⲉ̇ⲣⲉ ⲁ̇ⲡⲁ ⲁ̇ⲣⲥⲉⲛⲓ̇ⲟⲥ ϩⲛ̇ ϣⲓ̇ⲏⲧ . ⲉ̇ ⲛⲉ ϥ ⲙ̇ⲙⲁⲩ 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 056: Daniel 6
+	meta::document_cts_urn	urn:cts:copticLit:ap.56.monbeg
+	meta::version_n	2.7.0
+	meta::version_date	2019-05-31
+
+5. ⲉⲓ̇ ⲉ ⲡⲉⲓ ⲙ̇ⲁ ⲉ ϣⲓⲏ[ⲧ] · ⲧⲁⲓ ⲇⲉ ⲧⲉ ⲧ 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 101: Macarius 1
+	meta::document_cts_urn	urn:cts:copticLit:ap.101.monbeg
+	meta::version_n	2.7.0
+	meta::version_date	2019-05-31
+
+6. ϥ ⲃⲱⲕ Ⲛ̄ ⲟⲩⲟⲉⲓ̇ϣ ⲉ ϣⲓ̇ⲏⲧ ⲛ̄ϭⲓ ⲡ ⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲑⲉⲱ 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 114: Theophilus Beta
+	meta::document_cts_urn	urn:cts:copticLit:ap.114.monbeg
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+7. ϣ̇ⲱⲡⲉ ⲛ ⲟⲩⲟ̇ ⲉⲓ̇ϣ ϩⲛ ϣⲓ̇ⲏⲧ ⲁⲩⲱ ⲁ̇ ⲩ ϯ ⲛ 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 016
+	meta::document_cts_urn	urn:cts:copticLit:ap.16.monbeg
+	meta::version_n	2.7.0
+	meta::version_date	2019-05-31
+
+8. Ⲛ Ⲧ ⲈⲔ ⲔⲖⲎⲤⲒⲀ Ⲛ ϢⲒⲎⲦ ⲚⲦ Ⲁ Ϥ Ⲙ̅ⲦⲞⲚ Ⲙ̅ⲘⲞ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+9. ⲃⲩⲧⲉⲣⲟⲥ ⲛ̅ ⲧ ⲕ̅ⲕⲗⲏⲥⲓⲁ ⲛ̅ ϣⲓⲏⲧ · ⲙⲛ̅ⲛ̅ⲥⲁ ⲧⲣ ϥ̅ ⲥⲕⲉ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+10. ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛ̅ ⲧ ⲕ̅ⲕⲗⲏⲥⲓⲁ ⲛ̅ ϣⲓⲏⲧ ⲡ ⲛⲟϭ ⲛ̅ ϫⲟⲓ ⲉⲧ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+11. ⲛ̅ ⲧ ⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛ̅ ϣⲓⲏⲧ · ⲁⲩⲱ ⲡ ⲛⲟϭ ⲛ̅ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+12. ⲛ̅ ⲧ ⲕ̅ⲕⲗⲏⲥⲓⲁ · ⲛ̅ ϣⲓⲏⲧ · ⲧⲉⲛⲟⲩ ⲇⲉ ⲙⲉϣⲁⲕ ⲱ̅ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+13. ⲛ̅ ⲧ ⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛ̅ ϣⲓⲏⲧ ⲁⲩⲱ ⲡ ⲛⲟϭ ⲛ̅ ϫⲟⲓ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+14. ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛ̅ ⲧ ⲕ̅ⲕⲗⲏⲥⲓⲁ ⲛ̅ ϣⲓⲏⲧ ⁛— 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+15. ⲃⲱⲕ ⲉ ⲡⲁ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ϩⲛ̅ ϣⲓⲏⲧ ⲁ ⲓ ⲥϩⲁⲓ ⲙ̅ ⲡ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 2, 53-59
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+16. ϥ ϩⲛ̅ ⲧ ⲕ̅ⲕⲗⲏⲥⲓⲁ ⲛ̅ ϣⲓⲏⲧ · ⲉ ⲩ ϩⲏⲩ ⲙⲛ̅ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 2, 53-59
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+17. ⲡⲉⲩ ⲙⲁ ⲛ̅ ϣⲱⲡⲉ ⲡⲉ ϣⲓⲏⲧ · ⲁ ⲩ ϭⲉⲡⲏ ⲇⲉ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 4
+	meta::document_cts_urn	urn:cts:copticLit.lives.onnophrius.budge:25-33
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+18. ⲁ ⲩ ϫⲟⲟⲩ ϥ ⲉ ϣⲓⲏⲧ · ⲁ ⲩ ⲕⲁⲁ ϥ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 4
+	meta::document_cts_urn	urn:cts:copticLit.lives.onnophrius.budge:25-33
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+
+
+finished
