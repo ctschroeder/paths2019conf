@@ -1,0 +1,9 @@
+#|meta::corpus	count
+sahidica.nt	126
+sahidic.ot	38
+sahidica.mark	11
+sahidica.1corinthians	1
+shenoute.a22	1
+johannes.canons	1
+besa.letters	1
+apophthegmata.patrum	1

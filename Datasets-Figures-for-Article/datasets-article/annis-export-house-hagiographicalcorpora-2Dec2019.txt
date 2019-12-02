@@ -1,0 +1,17 @@
+1_id	1_span	1_anno_scriptorium:func	1_anno_scriptorium:lemma	1_anno_scriptorium:norm	1_anno_scriptorium:pos	1_meta_annis:doc	1_meta_version_date	1_meta_version_n
+61052100	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	life.cyrus.02	2019-09-30	3.0.0
+61126505	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.onnophrius.03	2019-09-30	3.0.0
+61159663	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	2019-09-30	3.0.0
+61161786	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	2019-09-30	3.0.0
+61162563	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	2019-09-30	3.0.0
+61163060	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	2019-09-30	3.0.0
+61539310	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.01	2019-09-30	3.0.0
+61543880	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.02	2019-09-30	3.0.0
+61544638	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.02	2019-09-30	3.0.0
+61557896	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.03	2019-09-30	3.0.0
+61559414	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	2019-09-30	3.0.0
+61561099	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	2019-09-30	3.0.0
+61561374	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	2019-09-30	3.0.0
+61566651	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	2019-09-30	3.0.0
+61619375	ⲏⲓ̇	obl	ⲏⲓ	ⲏⲓ	N	AP.094.n286.charity	2019-09-30	3.0.0
+61619981	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	AP.094.n286.charity	2019-09-30	3.0.0

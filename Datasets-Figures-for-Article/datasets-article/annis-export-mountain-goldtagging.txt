@@ -1,0 +1,157 @@
+0. ⲁ ϥ ⲃⲱⲕ ⲛ̇ϭⲓ̇ ⲟⲩ ⲥⲟⲛ ϣⲁ ⲁⲡⲁ ϫⲓ̇ϫⲱⲓ̇ ⲉ ⲡ ⲧⲟⲟⲩ ⲛ ⲁⲡⲁ ⲁⲛⲧⲱⲛⲓ̇ⲟⲥ ⲁ̇ⲩⲱ̇ ⲟⲩ ϣⲁϫⲉ ⲁ̇ ⲩ ϫⲟ ⲟ̇ ϥ ⲛ ⲁⲡⲁ ϫⲓ̇ϫⲱⲓ̇ ϫⲉ ⲧⲉⲛⲟⲩ ⲙⲡⲁⲧⲉ ⲕ ⲡⲱϩ ⲉ̇ 
+	meta::author	anonymous
+	meta::title	Apophthegmata Patrum Sahidic 117: Sisoes 9
+	meta::document_cts_urn	urn:cts:copticLit:ap.117.monbeg
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+1. ⲛϥ̅ ⲟⲩⲟⲩⲣⲏⲏⲧⲉ · ⲛ̅ⲧⲟϥ ⲇⲉ ⲡ ⲙⲁⲕⲁ ⲣⲓⲟⲥ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲁ ϥ ⲧⲱⲟⲩⲛ ⲁ ϥ ⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙ̅ ⲡ ⲧⲟⲟⲩ ϩⲓⲧⲛ̅ ⲧ ϭⲟⲙ ⲙ̅ ⲡ ⲛⲟⲩⲧⲉ ⲉⲧ ϣⲟⲟⲡ ⲛⲙ̅ⲙⲁ ϥ ⲛ̅ ⲑ ⲉ ⲙ̅ ⲡ ⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲛⲧⲱⲛⲓⲟⲥ · ϩⲙ̅ ⲡⲉ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+2. ϣⲁⲣⲟ ⲟⲩ · ⲛ ⲅ̅ ϫⲓ ⲥⲙⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧ ⲟⲩ · ⲛ̅ⲧⲉⲣ ⲉⲓ ⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧ ϥ̅ ⲉϩⲟⲩⲛ ϩⲙ̅ ⲡ ⲧⲟⲟⲩ ⲁ ⲓ ⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛ̅ ⲟⲩ ⲕⲟⲩⲓ ⲛ̅ ⲕⲁⲧⲁⲅⲓⲟⲛ · ⲁ ⲓ ⲙⲟⲩⲧⲉ ⲉϩⲟⲩⲛ ⲕⲁⲧⲁ ⲡ ⲕⲁⲛⲱⲛ ⲛ̅ ⲛⲉ ⲥⲛⲏⲩ 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+3. ⲡⲁ ⲙⲉⲉⲩⲉ ϣⲁⲛ ϯ ⲁⲡⲟⲗⲁⲩⲉ ⲙ̅ ⲡⲉ ⲥⲙⲟⲩ ⲙ̅ ⲡ ⲥⲟⲛ ⲉⲧ ⲙ̅ⲙⲁⲩ · ⲛ̅ⲧⲉⲣ ⲓ ⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙ̅ ⲡ ⲧⲟⲟⲩ ⲡⲁⲣⲁ ⲟⲩ ⲙⲏⲗⲓⲟⲛ · ϯ ⲱⲣⲕ̅ ⲛⲏ ⲧⲛ̅ ⲙ̅ ⲡ ⲃⲏⲙⲁ · ⲉⲧ ϩⲁ ϩⲟⲧⲉ · ⲙ̅ ⲡ ⲛⲟⲩⲧⲉ · 
+	meta::author	unknown
+	meta::title	Life of Cyrus in Budge ed. part 1, 45-53
+	meta::document_cts_urn	urn:cts:copticLit:lives.cyrus.budge
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+4. ϯ ⲛⲟϭ ⲛ̅ ϣⲡⲏⲣⲉ ⲛ̅ⲧ ⲁ ⲥ ⲧⲁϩⲟ ⲓ · ⲁ ⲓ ⲧⲱⲟⲩⲛ ⲁ ⲓ ⲙⲟⲟϣⲉ · ⲉϩⲟⲩⲛ ϩⲙ̅ ⲡ ⲧⲟⲟⲩ · Ⲛ̅ⲧⲉⲣⲉ ϥⲧⲟⲟⲩ ⲇⲉ ⲛ̅ ϩⲟⲟⲩ ⲟⲩⲉⲓⲛⲉ ⲁ ⲓ ϩⲓⲥⲉ ⲁⲩⲱ ⲁ ⲓ ⲡⲱⲣϣ̅ ⲛ̅ ⲛⲁ ϭⲓϫ ⲉϩⲣⲁⲓ ⲉ ⲧ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 1
+	meta::document_cts_urn	urn:cts:copticLit:lives.onnophrius.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+5. · ⲛ̅ⲧⲉⲣⲉ ϥ ϩⲱⲛ ⲉϩⲟⲩⲛ ⲉⲣⲟ ⲓ ⲁ ⲓ ⲣ̅ ϩⲟⲧⲉ · ⲁ ⲓ ⲁⲗⲉ ⲉϩⲣⲁⲓ ⲉϫⲛ̅ ⲟⲩ ⲕⲱϩ ⲛ̅ ⲧⲟⲟⲩ · ϫⲉ ⲙⲉϣⲁⲕ ⲟⲩ ⲉⲓⲁ ⲛ̅ ⲧⲟⲟⲩ ⲡⲉ · ⲛ̅ⲧⲉⲣⲉ ϥ ⲉⲓ ⲇⲉ ⲁ ϥ ⲛⲟϫ ϥ̅ ⲛ̅ ⲟⲩ ⲕⲟⲩⲓ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 1
+	meta::document_cts_urn	urn:cts:copticLit:lives.onnophrius.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+6. ⲁ ⲓ ⲣ̅ ϩⲟⲧⲉ · ⲁ ⲓ ⲁⲗⲉ ⲉϩⲣⲁⲓ ⲉϫⲛ̅ ⲟⲩ ⲕⲱϩ ⲛ̅ ⲧⲟⲟⲩ · ϫⲉ ⲙⲉϣⲁⲕ ⲟⲩ ⲉⲓⲁ ⲛ̅ ⲧⲟⲟⲩ ⲡⲉ · ⲛ̅ⲧⲉⲣⲉ ϥ ⲉⲓ ⲇⲉ ⲁ ϥ ⲛⲟϫ ϥ̅ ⲛ̅ ⲟⲩ ⲕⲟⲩⲓ · ϩⲁ ⲧ ϩⲁⲓⲃⲥ̅ ⲛ̅ ⲟⲩ ⲕⲱϩ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 1
+	meta::document_cts_urn	urn:cts:copticLit:lives.onnophrius.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+7. · ⲛ̅ⲧⲉⲣⲉ ϥ ⲉⲓ ⲇⲉ ⲁ ϥ ⲛⲟϫ ϥ̅ ⲛ̅ ⲟⲩ ⲕⲟⲩⲓ · ϩⲁ ⲧ ϩⲁⲓⲃⲥ̅ ⲛ̅ ⲟⲩ ⲕⲱϩ ⲛ̅ ⲧⲟⲟⲩ · ⲛ ϥ̅ ⲑⲗⲓⲃⲉ ⲉⲙⲁⲧⲉ ⲉⲧⲃⲉ ⲛ̅ ϩⲓⲥⲉ ⲉⲧ ϥ̅ ϣⲟⲟⲡ ⲛ̅ϩⲏⲧ ⲟⲩ · ⲡⲉ ϩⲕⲟ · ⲙⲛ̅ ⲡ ⲉⲓⲃⲉ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 1
+	meta::document_cts_urn	urn:cts:copticLit:lives.onnophrius.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+8. ⲉⲓⲃⲉ · ⲛ ϥ̅ ⲕⲩⲛⲇⲩⲛⲉⲩⲉ ⲉⲙⲁⲧⲉ · Ⲁ ϥ ϥⲓ ⲇⲉ ⲛ̅ ⲛϥ̅ ⲃⲁⲗ ⲉϩⲣⲁⲓ ⲉ ⲡ ⲕⲟⲟϩ · ⲛ̅ ⲧⲟⲟⲩ · ⲁ ϥ ⲛⲁⲩ ⲉⲣⲟ ⲓ · ⲁ ϥ ⲙⲟⲩⲧⲉ ϫⲉ ⲁⲙⲟⲩ ⲉ ⲡ ⲉⲥⲏⲧ ϣⲁⲣⲟ ⲓ ⲡ ⲣⲱⲙⲉ ⲉⲧ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 1
+	meta::document_cts_urn	urn:cts:copticLit:lives.onnophrius.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+9. ⲡⲉ ⲡⲁ ⲣⲁⲛ · ⲁⲩⲱ ⲉⲓⲥ ⲥⲉ ⲛ̅ ⲣⲟⲙⲡⲉ ϯ ϣⲟⲟⲡ ϩⲛ̅ ⲧⲓ ⲉⲣⲏⲙⲓⲁ · ⲉ ⲓ ⲙⲟⲟϣⲉ ϩⲛ̅ ⲛ̅ ⲧⲟⲟⲩ ⲛ̅ ⲑ ⲉ ⲛ̅ ⲛⲉ ⲑⲏⲣⲓⲟⲛ · ⲁⲩⲱ ⲙ̅ⲡ ⲉⲓ ⲛⲁⲩ ⲉ ⲣⲱⲙⲉ ⲉ ⲓ ⲥⲟⲟⲩⲛ ⲙ̅ⲙⲟ ϥ · Ⲉ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 1
+	meta::document_cts_urn	urn:cts:copticLit:lives.onnophrius.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+10. ⲛⲁⲩ ⲉ ⲣⲱⲙⲉ ⲉ ⲓ ⲥⲟⲟⲩⲛ ⲙ̅ⲙⲟ ϥ · Ⲉ ⲓ ϣⲟⲟⲡ ⲇⲉ ϩⲛ̅ ⲟⲩ ⲥⲟⲟⲩϩⲥ̅ ⲙ̅ ⲙⲟⲛⲟⲭⲟⲥ ϩⲙ̅ ⲡ ⲧⲟⲟⲩ ⲛ̅ ϣⲙⲟⲩⲛ ⲛ̅ⲧⲉ ⲑⲏⲃⲁⲉⲓⲥ · Ⲡ ⲣⲁⲛ ⲇⲉ ⲛ̅ ⲑ ⲉⲛⲉⲉⲧⲉ ⲉⲧ ⲙ̅ⲙⲁⲁⲩ ⲡⲉ ⲉⲣⲏⲧⲉ · ⲉ ⲛ ⲟ ⲛ̅ 
+	meta::author	unknown
+	meta::title	Life of Onnophrius part 1
+	meta::document_cts_urn	urn:cts:copticLit:lives.onnophrius.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+11. ⲙⲛ̅ⲧ̅ ⲙⲟⲛⲟⲭⲟⲥ · ⲧⲁⲣ ⲕ̅ ϣⲱⲡⲉ ⲛ̅ ϣⲟⲩ ⲙⲉⲣⲓⲧ ⲕ̅ ϩⲛ̅ ⲛⲉⲕ ϩⲃⲏⲩⲉ ⲧⲏⲣ ⲟⲩ · ⲉⲕϣⲁⲛ ⲃⲱⲕ ⲉ ⲩ ⲧⲟⲟⲩ ⲉ ϫⲓ ⲙⲁ ⲛ̅ϩⲏⲧ ϥ̅ · ⲛ̅ⲧⲕ̅ ⲟⲩ ⲕⲟⲩⲓ · ⲧⲟϭ ⲕ̅ ⲉ ⲩ ⲛⲟϭ ⲉⲣⲟ ⲕ · ⲉⲣⲉ ⲡ 
+	meta::author	Pseudo-Ephrem
+	meta::title	Letter of pseudo-Ephrem MERC.AT 126-134
+	meta::document_cts_urn	urn:cts:copticLit:psephrem.letter.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+12. ϥ · ϥ ⲥⲏϩ ⲅⲁⲣ ϫⲉ ⲙⲏ ⲟⲩ ⲕⲟⲩⲓ ⲛⲏ ⲧⲛ̅ ⲡ ⲉ ϯ ϭⲱⲛⲧ̅ ⲛ̅ ⲛ̅ ⲣⲱⲙⲉ · ⲡ ⲧⲟⲟⲩ ⲉⲧ ⲕ̅ ⲛ̅ϩⲏⲧ ϥ̅ ϩⲁⲣⲉϩ ⲉ ⲡⲉⲓ̈ ϩⲱⲃ ⲙ̅ⲡⲣ̅ ⲡⲱⲧ ⲉⲃⲟⲗ ϩⲙ̅ ⲙⲁ ⲉ ⲙⲁ 〈 ⲙ̅ⲡⲣ̅ ⲙⲟⲩⲧⲉ ⲉϩⲟⲩⲛ ⲉ 
+	meta::author	Pseudo-Ephrem
+	meta::title	Letter of pseudo-Ephrem MERC.AT 126-134
+	meta::document_cts_urn	urn:cts:copticLit:psephrem.letter.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+13. ⲟⲩ ⲙⲟⲧⲛⲥ̅ · ⲁⲗⲗⲁ ⲉⲩϣⲁⲛ ϫⲟⲧ ⲕ̅ ⲉ ⲥⲁϩⲧⲉ ⲛⲁ ⲕ · ⲙⲟⲩⲧⲉ ⲉ ⲩ ⲉⲃⲓⲏⲩ ⲉ ϥ ϩⲓ ⲡ ⲧⲟⲟⲩ ⲛⲙ̅ⲙⲁ ⲕ ⲧⲁⲣⲉ ⲕ ϣⲟⲩϣⲟⲩ ϩⲱⲱ ⲕ · ⲙ̅ⲙⲟ ⲕ ϫⲉ ⲙ̅ⲡ ⲓ ⲟⲩⲱⲙ ⲙ̅ ⲡⲁ ⲟⲉⲓⲕ ⲙⲁⲩⲁⲁ ⲧ · 
+	meta::author	Pseudo-Ephrem
+	meta::title	Letter of pseudo-Ephrem MERC.AT 126-134
+	meta::document_cts_urn	urn:cts:copticLit:psephrem.letter.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+14. ϩⲱⲱ ⲕ · ⲙ̅ⲙⲟ ⲕ ϫⲉ ⲙ̅ⲡ ⲓ ⲟⲩⲱⲙ ⲙ̅ ⲡⲁ ⲟⲉⲓⲕ ⲙⲁⲩⲁⲁ ⲧ · Ⲉϣⲱⲡⲉ ⲉ ⲕ ϩⲛ̅ ⲟⲩ ⲧⲟⲟⲩ · ⲏ ⲟⲩ ⲧⲟⲡⲟⲥ ⲉⲣⲉ ⲟⲩ ⲥⲟⲛ ϣⲱⲛⲉ ⲛ̅ϩⲏⲧ ϥ̅ ϭⲙ̅ ⲡϥ̅ ϣⲓⲛⲉ ⲛ̅ ⲥⲟⲡ ⲥⲛⲁⲩ ⲙ̅ ⲙⲏⲏⲛⲉ ϩⲧⲟⲟⲩⲉ ⲙ̅ⲡⲁⲧ 
+	meta::author	Pseudo-Ephrem
+	meta::title	Letter of pseudo-Ephrem MERC.AT 126-134
+	meta::document_cts_urn	urn:cts:copticLit:psephrem.letter.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+15. ϩⲙ̅ ⲡ ϫⲥ̅ ϫⲉ ⲉ ⲓ ϣⲱⲛⲉ ⲁ ⲧⲉⲧⲛ̅ ϭⲙ̅ ⲡⲁ ϣⲓⲛⲉ · ⲣ̅ϣⲁⲛ ⲟⲩ ⲥⲟⲛ ⲥⲱⲕ ⲉⲃⲟⲗ ϩⲙ̅ ⲡ ⲧⲟⲟⲩ ⲉⲧ ⲕ̅ ⲛ̅ϩⲏⲧ ϥ̅ · ⲙ̅ⲡⲣ̅ ϩⲙⲟⲟⲥ ϩⲛ̅ ⲧⲕ̅ ⲣⲓ ⲙ̅ ⲡ ⲛⲁⲩ ⲉⲧ ⲕ̅ ⲛⲁ ⲥⲱⲧⲙ̅ ⲃⲱⲕ ⲛ ⲅ̅ 
+	meta::author	Pseudo-Ephrem
+	meta::title	Letter of pseudo-Ephrem MERC.AT 126-134
+	meta::document_cts_urn	urn:cts:copticLit:psephrem.letter.budge:1-9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+16. ⲛⲉ ϥ ⲉⲡⲓⲧⲓⲙⲁ ⲛⲁ ⲩ ⲉⲙⲁⲧⲉ ϫⲉ ⲛⲛⲉ ⲩ ⲟⲩⲟⲛϩ ϥ ⲉⲃⲟⲗ . ⲁ ϥ ⲃⲱⲕ ⲇⲉ ⲉϩⲣⲁⲓ ⲉ ⲡ ⲧⲟⲟⲩ ⲁⲩⲱ ⲁ ϥ ⲙⲟⲩⲧⲉ ⲉ ⲛ ⲉⲧ ϥ ⲟⲩⲁϣ ⲟⲩ ⲁ ϥ ⲛⲉϩ ⲙⲛⲧ ⲥⲛⲟⲟⲩⲥ ⲉⲃⲟⲗ [ ⲛϩⲏⲧ ⲟⲩ ⲛⲁⲓ 
+	meta::title	Mark Chapter 3
+	meta::document_cts_urn	urn:cts:copticLit:nt.mark.sahidica_ed:3
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+17. ϥ ⲛⲟϫ ⲟⲩ ⲉⲃⲟⲗ ⲛ ⲧⲉ ⲭⲱⲣⲁ . ⲛⲉ ⲥ ⲙ ⲡ ⲙⲁ ⲇⲉ ⲉⲧ ⲙⲙⲁⲩ ϩⲁⲣⲁⲧ ϥ ⲙ ⲡ ⲧⲟⲟⲩ ⲛϭⲓ ⲟⲩ ⲛⲟϭ ⲛ ⲁⲅⲉⲗⲏ ⲣ ⲣⲓⲣ ⲉ ⲩ ⲙⲟⲟⲛⲉ ⲙⲙⲟ ⲥ ⲁⲩⲱ ⲁ ⲩ ⲥⲉⲡⲥⲱⲡ ϥ ⲉ ⲩ ϫⲱ 
+	meta::title	Mark Chapter 5
+	meta::document_cts_urn	urn:cts:copticLit:nt.mark.sahidica_ed:5
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+18. ϣⲉ . ⲕⲁⲁ ⲩ ⲉⲃⲟⲗ ϫⲉ ⲉⲩⲉ ⲃⲱⲕ ⲉ ⲛ ⲥⲱϣⲉ ⲉⲧ ϩⲙ ⲡⲉⲩ ⲕⲱⲧⲉ ⲙⲛ ⲛⲉ ⲧⲙⲉ ⲛ ⲥⲉ ⲧⲟⲟⲩ ⲛⲁ ⲩ ⲛ ⲛ ⲉⲧ ⲟⲩ ⲛⲁ ⲟⲩⲟⲙ ⲟⲩ . ⲛⲧⲟϥ ⲇⲉ ⲁ ϥ ⲟⲩⲱϣⲃ ⲉ ϥ ϫⲱ ⲙⲙⲟ ⲥ 
+	meta::title	Mark Chapter 6
+	meta::document_cts_urn	urn:cts:copticLit:nt.mark.sahidica_ed:6
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+19. ϫⲉ ϯ ⲛⲁ ⲩ ⲛⲧⲱⲧⲛ ⲉ ⲧⲣⲉ ⲩ ⲟⲩⲱⲙ . ⲡⲉϫⲁ ⲩ ⲛⲁ ϥ ϫⲉ ⲙⲁⲣ ⲛ ⲃⲱⲕ ⲛ ⲧⲛ ⲧⲟⲟⲩ ⲙⲛⲧ ⲥⲛⲟⲟⲩⲥ ⲛ ϣⲉ ⲛ ⲟⲉⲓⲕ ⲛ ⲧⲛ ⲧⲁⲁ ⲩ ⲛⲁ ⲩ ⲉ ⲟⲩⲱⲙ . ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁ ϥ ⲛⲁ 
+	meta::title	Mark Chapter 6
+	meta::document_cts_urn	urn:cts:copticLit:nt.mark.sahidica_ed:6
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+20. ⲃⲏⲑⲥⲁⲓⲇⲁ ϣⲁⲛⲧⲉ ϥ ⲕⲁ ⲡ ⲙⲏⲏϣⲉ ⲉⲃⲟⲗ . ⲁⲩⲱ ⲛⲧⲉⲣⲉ ϥ ⲁⲡⲟⲥⲧⲁⲥⲥⲉ ⲛⲁ ⲩ ⲁ ϥ ⲃⲱⲕ ⲉϩⲣⲁⲓ ⲉ ⲡ ⲧⲟⲟⲩ ⲉ ϣⲗⲏⲗ . ⲛⲧⲉⲣⲉ ⲣⲟⲩϩⲉ ⲇⲉ ϣⲱⲡⲉ ⲛⲉⲣⲉ ⲡ ϫⲟⲉⲓ ϩⲛ ⲧ ⲙⲏⲧⲉ ⲛ ⲑ ⲁⲗⲁⲥⲥⲁ . ⲁⲩⲱ ⲛⲧⲟϥ ⲛⲉ 
+	meta::title	Mark Chapter 6
+	meta::document_cts_urn	urn:cts:copticLit:nt.mark.sahidica_ed:6
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+21. ⲁ ϥ ϫⲓ ⲛϭⲓ ⲓⲏⲥⲟⲩⲥ ⲙ ⲡⲉⲧⲣⲟⲥ ⲛⲙ ⲓⲁⲕⲱⲃⲟⲥ ⲛⲙ ⲓⲱϩⲁⲛⲛⲏⲥ ⲁ ϥ ϫⲓⲧ ⲟⲩ ⲙ ⲙⲁⲩⲁⲁ ⲩ ⲉϫⲛ ⲟⲩ ⲧⲟⲟⲩ ⲉ ϥ ϫⲟⲥⲉ ⲁⲩⲱ ⲁ ϥ ϣⲃⲧ ϥ ϩⲓ ϩⲏ ⲙⲙⲟ ⲟⲩ ⲛⲉϥ ϩⲟⲓⲧⲉ ⲁ ⲩ ⲙⲟⲩϩ ⲉ ⲁ ⲩ 
+	meta::title	Mark Chapter 9
+	meta::document_cts_urn	urn:cts:copticLit:nt.mark.sahidica_ed:9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+22. ⲛⲁⲩ ⲉ ⲕⲉ ⲗⲁⲁⲩ ⲛⲙⲙⲁ ⲩ ⲛⲥⲁ ⲓⲏⲥⲟⲩⲥ ⲙⲁⲩⲁⲁ ϥ . [..] ⲩ ⲛⲏⲩ ⲇⲉ ⲉ ⲡ ⲉⲥⲏⲧ ϩⲓϫⲛ ⲡ ⲧⲟⲟⲩ . ⲁ ϥ ϩⲱⲛ ⲉⲧⲟⲟⲧ ⲟⲩ ϫⲉⲕⲁⲁⲥ ⲉ ⲛⲛⲉ ⲩ ⲧⲁⲩⲉ ⲛ ⲉⲛⲧ ⲁ ⲩ ⲛⲁⲩ ⲉⲣⲟ ⲟⲩ ⲉ ⲗⲁⲁⲩ 
+	meta::title	Mark Chapter 9
+	meta::document_cts_urn	urn:cts:copticLit:nt.mark.sahidica_ed:9
+	meta::version_n	3.0.0
+	meta::version_date	2019-09-30
+
+
+
+finished

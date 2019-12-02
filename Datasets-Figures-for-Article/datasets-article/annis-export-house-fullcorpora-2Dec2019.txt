@@ -1,0 +1,1172 @@
+1_id	1_span	1_anno_scriptorium:func	1_anno_scriptorium:lemma	1_anno_scriptorium:norm	1_anno_scriptorium:pos	1_meta_annis:doc	1_meta_annotation	1_meta_corpus	1_meta_version_date	1_meta_version_n
+52009772	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52018897	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52030962	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	40_Matthew_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52031095	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52031308	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52031436	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52032417	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52033545	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52037049	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52037097	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52037469	ⲏⲓ	mark	ⲏⲓ	ⲏⲓ	N	40_Matthew_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52039339	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52039929	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52041842	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52042433	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52042470	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	40_Matthew_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52042674	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52044191	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	40_Matthew_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52045484	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	40_Matthew_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52047254	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	40_Matthew_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52050446	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52052884	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	40_Matthew_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52053375	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52053472	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	40_Matthew_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52055711	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52056562	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_13	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52061484	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_13	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52064374	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	40_Matthew_13	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52071464	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_15	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52080171	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_17	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52089461	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	40_Matthew_19	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52095518	ⲏⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	40_Matthew_21	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52095553	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	40_Matthew_21	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52112091	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	40_Matthew_24	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52115014	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	40_Matthew_24	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52115114	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_24	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52122274	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	40_Matthew_26	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52145041	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52145462	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	41_Mark_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52146886	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52147964	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52148465	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52149981	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	41_Mark_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52152254	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52152787	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52152820	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52152982	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52153085	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52160655	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52162848	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52164243	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52164804	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52172365	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52173248	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52173936	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	41_Mark_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52177660	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52183031	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52183614	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52186586	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52189042	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	41_Mark_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52189199	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52194420	ⲏⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	41_Mark_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52194455	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52201819	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52204371	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_13	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52206244	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_13	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52206448	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	41_Mark_13	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52206963	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	41_Mark_14	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52208491	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	41_Mark_14	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52226110	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52226514	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	42_Luke_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52227897	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52229164	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	42_Luke_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52230421	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52231885	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52245881	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_04	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52250060	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52250155	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52250567	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52252154	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52257491	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52257619	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	42_Luke_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52257770	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52257879	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52258474	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52259143	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52261232	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52262384	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52262511	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52263558	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52267989	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	42_Luke_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52269745	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	42_Luke_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52270150	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52271332	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52272282	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	42_Luke_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52279756	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	42_Luke_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52280323	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	42_Luke_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52280397	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52280537	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52280652	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52280663	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52287275	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	42_Luke_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52287288	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52288239	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52291638	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	42_Luke_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52296797	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52296884	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52298362	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52303524	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	42_Luke_13	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52303712	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_14	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52306454	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	42_Luke_14	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52308359	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_15	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52310808	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_15	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52312196	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52315166	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52319107	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_17	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52321458	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_18	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52323325	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	42_Luke_18	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52325294	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_19	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52325758	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_19	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52330028	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	42_Luke_19	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52330047	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_19	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52335688	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_20	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52340946	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_22	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52341015	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	42_Luke_22	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52345753	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	42_Luke_22	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52367625	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	43_John_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52367644	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	43_John_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52367732	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	43_John_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52379854	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	43_John_04	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52401311	ⲏⲉⲓ	dislocated	ⲏⲓ	ⲏⲉⲓ	N	43_John_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52403944	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	43_John_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52419714	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	43_John_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52420772	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	43_John_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52424756	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	43_John_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52435488	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	43_John_14	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52459956	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	43_John_19	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52463050	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	43_John_20	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52474262	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52478512	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52479928	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52488436	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_04	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52494522	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52498260	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52499344	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52502625	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52503320	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52503491	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_07	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52505390	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52511549	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52512306	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_09	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52516441	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52517084	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52518310	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52519055	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52520122	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52520471	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52524095	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52524313	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52524407	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52524610	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52527766	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52528765	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_12	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52548650	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52548773	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52551084	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52551170	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52551372	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52551466	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52552989	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_17	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52558178	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_18	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52558255	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_18	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52558332	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_18	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52563257	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_19	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52569420	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_20	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52572694	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_21	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52572922	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	44_Acts_of_the_Apostles_21	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52659222	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	45_Romans_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52659644	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	45_Romans_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52659702	ⲏⲓ	parataxis	ⲏⲓ	ⲏⲓ	N	45_Romans_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52663300	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	46_1_Corinthians_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52693161	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	46_1_Corinthians_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52694666	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	46_1_Corinthians_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52704081	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	46_1_Corinthians_14	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52712662	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	46_1_Corinthians_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52713176	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	46_1_Corinthians_16	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52723580	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	47_2_Corinthians_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52723686	ⲏⲉⲓ	parataxis	ⲏⲓ	ⲏⲉⲓ	N	47_2_Corinthians_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52763262	ⲏⲉⲓ	parataxis	ⲏⲓ	ⲏⲉⲓ	N	48_Galatians_06	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52769283	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	49_Ephesians_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52793184	ⲏⲉⲓ	parataxis	ⲏⲓ	ⲏⲉⲓ	N	50_Philippians_04	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52804435	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	51_Colossians_04	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52825784	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	54_1_Timothy_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52825926	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	54_1_Timothy_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52826764	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	54_1_Timothy_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52827035	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	54_1_Timothy_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52829388	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	54_1_Timothy_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52829813	ⲏⲉⲓ	dislocated	ⲏⲓ	ⲏⲉⲓ	N	54_1_Timothy_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52830379	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	54_1_Timothy_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52830582	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	54_1_Timothy_05	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52836684	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	55_2_Timothy_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52839087	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	55_2_Timothy_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52840534	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	55_2_Timothy_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52844000	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	55_2_Timothy_04	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52845677	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	56_Titus_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52849904	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	57_Philemon_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52856817	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52856922	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	58_Hebrews_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52856956	ⲏⲉⲓ	root	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52857099	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52857193	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52857218	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_03	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52870058	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52870082	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	58_Hebrews_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52870376	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_08	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52877006	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	58_Hebrews_10	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52880155	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	58_Hebrews_11	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52907995	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	60_1_Peter_02	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52915828	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	60_1_Peter_04	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+52942381	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	63_2_John_01	Caroline T. Schroeder, Amir Zeldes	sahidica.nt	2018-04-01	2.5.0
+57563428	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	01_Genesis_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57567014	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	01_Genesis_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57568111	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	01_Genesis_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57568245	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	01_Genesis_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57568320	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57569197	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	01_Genesis_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57577887	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57580961	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_28	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57581086	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	01_Genesis_28	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57581281	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57582816	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	01_Genesis_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57584831	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57584892	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57584922	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57588052	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_34	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57588319	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	01_Genesis_34	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57591703	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57592374	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57593572	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_41	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57596838	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57597064	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57598010	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	01_Genesis_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57598954	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	01_Genesis_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57601296	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	01_Genesis_47	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57606249	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	01_Genesis_50	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57606636	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57626090	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57626300	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	02_Exodus_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57626484	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57626638	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57631307	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57631888	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57631973	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57632837	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57633038	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57633374	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57634744	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57634785	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57635256	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57635285	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57639322	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57639489	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57642434	ⲏⲉⲓ	dislocated	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57642447	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	02_Exodus_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57642469	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	02_Exodus_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57648381	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57648427	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57648457	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57648959	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57649745	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57650133	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57650762	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57651336	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57651538	ⲏⲉⲓ	advcl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57651903	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57651950	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57652542	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57654371	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57654432	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57655356	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57657004	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	02_Exodus_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57670892	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	02_Exodus_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57678548	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	02_Exodus_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57680994	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	02_Exodus_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57687989	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	02_Exodus_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57688122	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	02_Exodus_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57693068	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	02_Exodus_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57714548	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	02_Exodus_34	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57722278	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	03_Leviticus_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57725385	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	03_Leviticus_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57726582	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	03_Leviticus_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57731741	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	03_Leviticus_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57741473	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	03_Leviticus_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57747283	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	03_Leviticus_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57747958	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	03_Leviticus_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57749136	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	03_Leviticus_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57750442	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	03_Leviticus_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57755363	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	03_Leviticus_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57765460	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	03_Leviticus_27	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57767568	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	04_Numbers_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57767818	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	04_Numbers_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57768173	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	04_Numbers_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57769554	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	04_Numbers_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57772727	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	04_Numbers_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57773129	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	04_Numbers_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57775800	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	04_Numbers_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57783458	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	04_Numbers_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57783509	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	04_Numbers_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57783653	ⲏⲓ	parataxis	ⲏⲓ	ⲏⲓ	N	04_Numbers_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57784087	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	04_Numbers_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57784391	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	04_Numbers_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57785213	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	04_Numbers_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57792475	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	04_Numbers_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57792966	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	04_Numbers_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57797300	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	04_Numbers_32	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57823113	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	05_Deuteronomy_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57823137	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57830754	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57831975	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57833748	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57837087	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57837300	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57837542	ⲏⲉⲓ	root	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57837826	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57839124	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57840942	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57843737	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57845666	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57845951	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57858477	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57858595	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57867745	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57874647	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57875409	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57885732	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57889736	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57889817	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57889994	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	05_Deuteronomy_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57890152	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	05_Deuteronomy_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57891591	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57891653	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57893220	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57893394	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57896922	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57898054	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57898225	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57898665	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57899415	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57902213	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	05_Deuteronomy_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57902624	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57902687	ⲏⲉⲓ	dislocated	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57903067	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57909596	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	05_Deuteronomy_28	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57933214	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_32	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57940727	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	05_Deuteronomy_34	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57944857	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57945214	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57946646	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57946715	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	06_Joshua_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57946759	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	06_Joshua_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57947436	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	06_Joshua_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57958956	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	06_Joshua_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57959956	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57960088	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57960466	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	06_Joshua_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57963749	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57963762	ⲏⲓ	aux	ⲏⲓ	ⲏⲓ	N	06_Joshua_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57964266	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57964310	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	06_Joshua_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+57964351	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58015921	ⲏⲓ	advcl	ⲏⲓ	ⲏⲓ	N	06_Joshua_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58016377	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58016574	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58016649	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	06_Joshua_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58026655	ⲏⲓ	parataxis	ⲏⲓ	ⲏⲓ	N	06_Joshua_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58035936	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58042104	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	07_Judges_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58047670	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58054417	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58055690	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58056110	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58057708	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58066147	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	07_Judges_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58066581	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	07_Judges_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58066737	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	07_Judges_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58066810	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	07_Judges_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58067149	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58067742	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58070697	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58074034	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58074565	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58078096	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58078546	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58079963	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	07_Judges_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58088008	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	07_Judges_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58089100	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58092878	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58096421	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58096931	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58097492	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58098073	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58098141	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58098804	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	07_Judges_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58099302	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58099418	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58099778	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58100274	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	07_Judges_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58100540	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58100707	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58100792	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58100843	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58102131	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58102166	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58102476	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58102670	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58102751	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58102828	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58102888	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58103008	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58103534	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58103638	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58103734	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58103934	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58105321	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58105864	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	07_Judges_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58113516	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	08_Ruth_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58113704	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	08_Ruth_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58124491	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	08_Ruth_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58124572	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	08_Ruth_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58124657	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	08_Ruth_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58124684	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	08_Ruth_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58126961	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58129049	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58129327	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58130011	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58135181	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58135242	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58135278	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58135454	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58135832	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58135845	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58136098	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58136139	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58136297	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58136619	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58136729	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58138601	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58138697	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58138897	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58138957	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58139086	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58144033	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58144138	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58144780	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58150558	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58150763	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58150851	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58153353	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58158222	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58159635	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58160038	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58165812	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58190834	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58198322	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58204268	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58208196	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58208576	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58213180	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58213334	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58220837	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58220968	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58223415	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58223574	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58223755	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58224639	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58227569	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58232637	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58232890	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58233792	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58235530	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58237462	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58238864	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58239025	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58245487	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_27	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58251023	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	09_I_Samuel_28	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58264260	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58264938	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58265389	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58268919	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58268945	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58268958	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58269031	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58269542	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58269576	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58269616	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58269964	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58270044	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58270319	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58270681	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58271816	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58273497	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58273538	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58276056	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58276134	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58276263	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58277181	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58278866	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58279030	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58279304	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58281703	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58282724	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58282800	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58282861	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58283043	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58283171	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58284317	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58284367	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58284817	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58285198	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58285366	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58285722	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58285763	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58286158	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58286890	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58287070	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58287430	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58287791	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58287900	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58288963	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58289022	ⲏⲓ]	nsubj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58289238	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58289438	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58289697	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58289817	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58292640	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58292740	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58292963	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58293162	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58293879	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58294526	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58298262	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58298651	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58299072	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58299117	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58299216	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58299288	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58299365	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58299511	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58299685	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58300175	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58302552	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58304086	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58304183	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58304513	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58304706	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58305242	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58305496	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58306275	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58306352	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58309535	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58309587	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58309678	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58310803	ⲏⲓ	parataxis	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58310955	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58311043	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58311795	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58316503	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58319413	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58319469	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58320748	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58323930	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58324035	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58324134	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58325695	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58326307	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58326937	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58327365	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58329539	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58333141	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58333457	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58334167	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58334216	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58342422	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58344125	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58344242	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58344345	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58345291	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58345765	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58347030	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58347500	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58349351	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58350508	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58350614	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58350644	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58354900	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58355370	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58358806	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58364179	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58371729	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	10_II_Samuel_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58376325	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	18_Job_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58376790	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	18_Job_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58377535	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58377653	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	18_Job_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58377666	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	18_Job_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58379778	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	18_Job_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58379789	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58381943	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	18_Job_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58384415	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58386637	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	18_Job_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58388621	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58390374	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58392351	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	18_Job_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58392412	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	18_Job_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58399456	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	18_Job_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58406353	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58406879	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58409263	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	18_Job_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58410456	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	18_Job_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58410576	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	18_Job_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58413666	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58413911	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	18_Job_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58414321	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58414418	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	18_Job_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58414520	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	18_Job_20	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58415174	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	18_Job_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58417313	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	18_Job_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58417658	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58419913	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	18_Job_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58423471	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	18_Job_27	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58425145	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	18_Job_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58427169	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	18_Job_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58428286	ⲏⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	18_Job_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58478721	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_022	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58482053	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_025	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58482839	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_026	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58485809	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_029	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58486999	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	19_Psalms_030	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58497151	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_035	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58507705	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_041	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58512635	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_044	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58516892	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	19_Psalms_048	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58517468	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_048	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58517572	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_048	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58518591	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_049	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58521479	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_051	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58522185	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_051	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58525041	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_054	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58529473	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_058	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58536423	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_064	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58538238	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_065	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58540075	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_067	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58540681	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_067	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58543741	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_068	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58554255	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	19_Psalms_073	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58570517	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	19_Psalms_083	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58570674	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_083	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58571212	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_083	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58584106	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_091	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58584785	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_092	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58590036	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_097	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58591992	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_100	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58592434	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_100	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58593209	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_101	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58597979	ⲏⲓ	advcl	ⲏⲓ	ⲏⲓ	N	19_Psalms_103	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58600747	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_104	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58610704	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_108	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58614088	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	19_Psalms_111	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58615200	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_112	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58615295	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	19_Psalms_113	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58616413	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	19_Psalms_113	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58616490	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	19_Psalms_113	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58616701	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_113	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58616732	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_113	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58618224	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_115	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58618516	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	19_Psalms_117	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58618592	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	19_Psalms_117	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58620280	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_117	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58629512	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_118	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58633012	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_121	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58633310	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_121	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58633518	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_121	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58635548	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	19_Psalms_126	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58636293	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_127	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58638135	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_131	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58639715	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_133	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58639748	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_133	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58639984	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_134	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58640017	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	19_Psalms_134	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58641228	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	19_Psalms_134	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58641263	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	19_Psalms_134	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58641293	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	19_Psalms_134	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58658266	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	19_Psalms_151	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58659933	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58663112	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58666460	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	20_Proverbs_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58669449	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58669592	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58674844	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58674961	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58675194	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58675625	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58675731	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58675841	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58676456	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58679592	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58681152	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58687522	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58687610	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58688446	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58692891	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58693606	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58693647	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58693774	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58696535	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58698180	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_15	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58704551	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58705903	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58706228	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58706508	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58713981	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_19	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58717328	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58722846	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58723126	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58724390	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	20_Proverbs_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58725546	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58728100	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58732157	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_25	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58735856	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_27	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58736323	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_27	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58736402	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_27	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58745420	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	20_Proverbs_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58745584	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58747198	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	20_Proverbs_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58747598	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58747980	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	20_Proverbs_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58751272	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58751558	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58759499	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58759897	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58764666	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58764704	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58764927	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58764987	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58775468	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58777610	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58778095	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	21_Ecclesiastes_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58780958	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	22_Song_of_Solomon_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58781381	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	22_Song_of_Solomon_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58783410	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	22_Song_of_Solomon_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58792101	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	22_Song_of_Solomon_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58797993	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58798205	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58798579	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	23_Isaiah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58798664	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	23_Isaiah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58800931	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58801147	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58802082	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58802772	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58805163	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58805340	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58805351	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58805540	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58808754	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58809182	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58810248	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58810752	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58812032	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58815688	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	23_Isaiah_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58816016	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58816154	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_08	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58829144	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58829710	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58829823	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58830009	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58831149	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58832120	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58847927	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58847986	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58848128	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58849212	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58849762	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58849809	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58853386	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58853530	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_24	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58874049	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58875246	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_31	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58876777	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	23_Isaiah_32	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58876838	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_32	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58887439	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_37	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58892371	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_37	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58892757	ⲏⲓ̈	obj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_38	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58893697	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_38	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58895386	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_38	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58895583	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_38	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58895873	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58895977	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58896109	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58896413	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58896475	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58896504	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58896685	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58896897	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58905534	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58907257	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58913057	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	23_Isaiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58915353	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	23_Isaiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58919484	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	23_Isaiah_46	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58923107	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_48	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58944345	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_56	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58944753	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_56	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58944843	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_56	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58944853	ⲏⲉⲓ	ccomp	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_56	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58948154	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_58	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58949325	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_58	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58949342	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_58	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58949424	ⲏⲉⲓ	advmod	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_58	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58954697	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_60	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58954733	ⲏⲉⲓ	appos	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_60	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58954771	ⲏⲉⲓ	advcl	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_60	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58961152	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_63	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58964151	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_64	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58967536	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_65	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58968401	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_66	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58971860	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	23_Isaiah_66	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58973302	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58973336	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58974762	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58977124	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58977144	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58977639	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58980874	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58981194	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58986945	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58989041	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58991004	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58991177	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58992316	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58993171	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+58993193	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59001754	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_16	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59004255	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_17	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59006060	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_18	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59008852	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59008883	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59009458	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59009625	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59009995	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59010107	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59010761	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_22	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59011458	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59028297	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59028371	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59028948	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59029128	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59029428	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59029547	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59029633	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59029660	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59030005	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59031077	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_33	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59033777	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_38	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59033798	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_38	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59034042	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_38	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59034221	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59036080	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_39	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59037815	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_40	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59037842	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_40	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59039167	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_40	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59041560	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_41	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59042060	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_41	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59043441	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59043495	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59043662	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59043702	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59043797	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59043830	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59044138	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59044511	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59046580	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59047032	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59047116	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59047544	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59047739	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59047813	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59047835	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59047928	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59048093	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59048115	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59049336	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59049472	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_43	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59051802	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59053341	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59053365	ⲏⲓ	advcl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59053393	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59053432	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59053811	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59054051	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59054155	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_44	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59055527	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59056019	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59056436	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59056468	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59057069	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59057650	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59058440	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_45	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59059295	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_46	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59063334	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_48	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59069625	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_50	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59070114	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_50	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59070348	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_50	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59078326	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59078348	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59078370	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59078412	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59078641	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59078693	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59079142	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59080516	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	24_Jeremiah_52	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59084975	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	25_Lamentations_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59086702	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	25_Lamentations_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59097232	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	25_Lamentations_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59100740	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59101078	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59101162	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59101274	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59101971	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59102062	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59102328	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59102433	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59102733	ⲏⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59103699	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59104840	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59105104	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59105313	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59105895	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59106143	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59106220	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59108563	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	26_Ezekiel_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59125407	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	28_Hosea_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59126156	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	28_Hosea_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59128127	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	28_Hosea_10	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59129754	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	29_Joel_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59129901	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	29_Joel_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59130118	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	29_Joel_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59136107	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	29_Joel_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59137159	ⲏⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	30_Amos_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59138883	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	30_Amos_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59139212	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	30_Amos_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59139234	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	30_Amos_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59144680	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	30_Amos_09	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59147885	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	31_Obadiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59147924	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	31_Obadiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59147976	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	31_Obadiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59148019	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	31_Obadiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59148138	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	31_Obadiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59156299	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	33_Micah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59156396	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	33_Micah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59157284	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	33_Micah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59157638	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	33_Micah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59158212	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	33_Micah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59158932	ⲏⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	33_Micah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59159301	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	33_Micah_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59160357	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	33_Micah_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59162273	ⲏⲓ	advcl	ⲏⲓ	ⲏⲓ	N	33_Micah_07	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59169402	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	37_Haggai_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59170037	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	37_Haggai_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59170162	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	37_Haggai_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59173356	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	38_Zechariah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59175245	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	38_Zechariah_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59176857	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59178147	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	38_Zechariah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59178179	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	38_Zechariah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59178261	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	38_Zechariah_05	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59180494	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59180723	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59180783	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59180842	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59180900	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_12	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59181123	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	38_Zechariah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59181169	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59182005	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	38_Zechariah_13	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59182788	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	38_Zechariah_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59192147	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	67_Tobit_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59192316	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	67_Tobit_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59192458	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	67_Tobit_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59202051	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	71_Sirach_04	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59206039	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_06	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59216902	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_11	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59223029	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_14	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59236678	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	71_Sirach_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59236992	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	71_Sirach_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59237935	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59238310	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59238408	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_21	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59242507	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	71_Sirach_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59242640	ⲏⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	71_Sirach_23	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59251194	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_26	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59251863	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	71_Sirach_27	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59256205	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_28	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59256351	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_28	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59259468	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	71_Sirach_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59259553	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59259588	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59259710	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59259721	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59259977	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59260026	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_29	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59260149	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59260249	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59260351	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59260429	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_30	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59275862	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_35	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59296389	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_42	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59310025	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	71_Sirach_47	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59312614	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_48	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59314787	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	71_Sirach_49	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59315034	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲉⲓ	N	71_Sirach_49	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59315287	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_50	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59315711	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	71_Sirach_50	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59317510	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	71_Sirach_50	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59321156	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	71_Sirach_51	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59322290	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	72_Baruch_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59323421	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	72_Baruch_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59328144	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	72_Baruch_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59328234	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	72_Baruch_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59328256	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	72_Baruch_02	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59332049	ⲏⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	72_Baruch_03	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59339724	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59340241	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59340537	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59340795	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59340958	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59342177	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59345086	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59345735	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+59345847	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	73_Epistle_of_Jeremiah_01	Frank Feder, So Miyagawa, Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes	sahidic.ot	2018-11-15	2.6.0
+60957499	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	on_vigilance	So Miyagawa, Julien Delhez, Heike Behlmer, Amir Zeldes, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0
+60962978	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	to_aphthonia	Amir Zeldes, David Sriboonreuang, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0
+60975853	ⲏⲓ̅	obl	ⲏⲓ	ⲏⲓ	N	dormition.john.mercad	'NULL'	'NULL'	'NULL'	'NULL'
+61001612	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	johannes.canons.FA203-204	Diliana Atanassova, Caroline T. Schroeder, Elizabeth Platte	johannes.canons	2019-09-30	3.0.0
+61021256	ⲏⲓ̂	root	ⲏⲓ	ⲏⲓ	N	johannes.canons.FA37-42	Diliana Atanassova, Elizabeth Platte, Caroline T. Schroeder	johannes.canons	2019-09-30	3.0.0
+61031656	ⲏⲓ̂	nmod	ⲏⲓ	ⲏⲓ	N	johannes.canons.FA65-80	Diliana Atanassova, Elizabeth Platte, Caroline T. Schroeder	johannes.canons	2019-09-30	3.0.0
+61034348	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	johannes.canons.FA65-80	Diliana Atanassova, Elizabeth Platte, Caroline T. Schroeder	johannes.canons	2019-09-30	3.0.0
+61052100	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	life.cyrus.02	Amir Zeldes, Lance Martin, Caroline T. Schroeder	life.cyrus	2019-09-30	3.0.0
+61126505	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.onnophrius.03	Amir Zeldes, Lance Martin, Elizabeth Davidson, Caroline T. Schroeder	life.onnophrius	2019-09-30	3.0.0
+61159663	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0
+61161786	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0
+61162563	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0
+61163060	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0
+61220415	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	cross.michbr291-294	Caroline T. Schroeder, Alin Suciu, Elizabeth Platte	pseudo.theophilus	2018-04-01	2.5.0
+61225352	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	1Cor_01	Elizabeth Platte, David Sriboonreuang, Christine Luckritz Marquis, Mitchell Abrams, Lance Martin, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0
+61255889	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	1Cor_11	Elizabeth Platte, Caroline T. Schroeder,  David Sriboonreuang	sahidica.1corinthians	2016-12-08	2.2.0
+61257408	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	1Cor_11	Elizabeth Platte, Caroline T. Schroeder,  David Sriboonreuang	sahidica.1corinthians	2016-12-08	2.2.0
+61267142	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	1Cor_14	Elizabeth Platte,  David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0
+61275960	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	1Cor_16	Elizabeth Platte, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0
+61276476	ⲏⲉⲓ	acl	ⲏⲓ	ⲏⲓ	N	1Cor_16	Elizabeth Platte, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0
+61280120	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_01	Caroline T. Schroeder, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61280566	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	Mark_01	Caroline T. Schroeder, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61282036	ⲏⲉⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61283144	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61283661	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61285280	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61287724	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61288298	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61288328	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61288517	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61288622	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61296478	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_05	Caroline T. Schroeder, David Sriboonreuang, Elizabeth Davidson, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61298763	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_05	Caroline T. Schroeder, David Sriboonreuang, Elizabeth Davidson, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61300205	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲓ	N	Mark_06	Caroline T. Schroeder, David Sriboonreuang, Mitchell Abrams, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61300806	ⲏⲉⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	Mark_06	Caroline T. Schroeder, David Sriboonreuang, Mitchell Abrams, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61308706	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61309640	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61310373	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61314214	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_08	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61319715	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_09	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61320320	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_09	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61323379	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_10	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61325822	ⲏⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	Mark_10	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61325997	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	Mark_10	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0
+61331225	ⲏⲓ	parataxis	ⲏⲓ	ⲏⲓ	N	Mark_11	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder	sahidica.mark	2019-09-30	3.0.0
+61331258	ⲏⲉⲓ	vocative	ⲏⲓ	ⲏⲓ	N	Mark_11	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder	sahidica.mark	2019-09-30	3.0.0
+61338787	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	Mark_12	Rebecca Krawiec, Caroline T. Schroeder, David Sriboonreuang	sahidica.mark	2019-09-30	3.0.0
+61341396	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_13	Rebecca Krawiec, David Sriboonreuang, Caroline T. Schroeder	sahidica.mark	2019-09-30	3.0.0
+61343359	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲉⲓ	N	Mark_13	Rebecca Krawiec, David Sriboonreuang, Caroline T. Schroeder	sahidica.mark	2019-09-30	3.0.0
+61343567	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	Mark_13	Rebecca Krawiec, David Sriboonreuang, Caroline T. Schroeder	sahidica.mark	2019-09-30	3.0.0
+61344121	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_14	Rebecca Krawiec, David Sriboonreuang, Caroline T. Schroeder	sahidica.mark	2019-09-30	3.0.0
+61345703	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	Mark_14	Rebecca Krawiec, David Sriboonreuang, Caroline T. Schroeder	sahidica.mark	2019-09-30	3.0.0
+61372036	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	a22.YB307-320	Elizabeth Platte, Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.a22	2019-09-30	3.0.0
+61372149	ⲏⲓ̈	nsubj	ⲏⲓ	ⲏⲓ	N	a22.YB307-320	Elizabeth Platte, Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.a22	2019-09-30	3.0.0
+61372259	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	a22.YB307-320	Elizabeth Platte, Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.a22	2019-09-30	3.0.0
+61405989	ⲏ̈ⲓ	nmod	ⲏⲓ	ⲏⲓ	N	YA535-540	Rebecca Krawiec, Amir Zeldes, David Sriboonreuang, Caroline T. Schroeder	shenoute.abraham	2019-09-30	3.0.0
+61423681	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF113-120	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61425630	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF113-120	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61426067	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF113-120	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61427721	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF113-120	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61428508	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF113-120	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61432985	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF121-128	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61433548	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF121-128	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61434496	ⲏⲓ̈	advcl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF121-128	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61435077	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF121-128	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61435951	ⲏⲓ̈	obj	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF121-128	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61436018	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GF121-128	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61442789	ⲏⲓ	appos	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GL71-74	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61443165	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GL71-74	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61445561	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	shenoute.dirt.GL75-76	Christine Luckritz Marquis, Caroline T. Schroeder	shenoute.dirt	2019-09-30	3.0.0
+61522523	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61522633	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61524312	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61524324	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61525919	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61526529	ⲏⲓ̈	obj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61526603	ⲏⲓ̈	parataxis	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61526749	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61527465	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61529997	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61530411	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61530533	ⲏⲓ̈	obj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61532613	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0
+61539310	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.01	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61543880	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.02	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61544638	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.02	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61557896	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.03	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61559414	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61561099	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61561374	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61566651	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	life.longinus.lucius.04	Julian Bogdani, Caroline Schroeder, Lance Martin, Amir Zeldes	life.longinus.lucius	2019-09-30	3.0.0
+61619375	ⲏⲓ̇	obl	ⲏⲓ	ⲏⲓ	N	AP.094.n286.charity	Dana Robinson, Caroline T. Schroeder	apophthegmata.patrum	2019-09-30	3.0.0
+61619981	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	AP.094.n286.charity	Dana Robinson, Caroline T. Schroeder	apophthegmata.patrum	2019-09-30	3.0.0
+61866521	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	GF31-32	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-10-24	3.0.1
+61875668	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	GL45-53_par_XJ52-62	Rebecca Krawiec, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61876085	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	GL45-53_par_XJ52-62	Rebecca Krawiec, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61876380	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	GL45-53_par_XJ52-62	Rebecca Krawiec, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61877265	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	GL45-53_par_XJ52-62	Rebecca Krawiec, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61878039	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	GL45-53_par_XJ52-62	Rebecca Krawiec, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61879040	ⲏⲓ	acl	ⲏⲓ	ⲏⲓ	N	GL45-53_par_XJ52-62	Rebecca Krawiec, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61882399	ⲏⲓ	obj	ⲏⲓ	ⲏⲓ	N	GL53-54	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61885931	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	GL54-60_par_XJ65-73	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61888128	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	GL54-60_par_XJ65-73	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61891131	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	GL54-60_par_XJ65-73	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61891671	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	GL61-63_par_XJ73-76	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61891982	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	GL61-63_par_XJ73-76	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61893408	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	GL61-63_par_XJ73-76	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61893744	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	GL61-63_par_XJ73-76	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61894254	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	GL61-63_par_XJ73-76	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61896285	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	GL63-70_par_XJ77-86	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61900986	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	GL63-70_par_XJ77-86	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61902379	ⲏⲓ	root	ⲏⲓ	ⲏⲓ	N	GL63-70_par_XJ77-86	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61902629	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	GL63-70_par_XJ77-86	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61903358	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	GL63-70_par_XJ77-86	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61905332	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XJ33-34	Rebecca Krawiec, Caroline T. Schroeder, David Sriboonreuang, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61908793	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XJ49-52	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2017-03-30	2.3.0
+61913727	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XJ52-62	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2017-03-30	2.3.0
+61914101	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	XJ52-62	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2017-03-30	2.3.0
+61914394	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XJ52-62	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2017-03-30	2.3.0
+61915227	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XJ52-62	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2017-03-30	2.3.0
+61915985	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XJ52-62	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2017-03-30	2.3.0
+61916944	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	XJ52-62	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2017-03-30	2.3.0
+61921945	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61924124	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61927058	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61927549	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61927850	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61929263	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61929620	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61930164	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	XJ65-76	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-09-30	3.0.0
+61932138	ⲏⲉⲓ	nmod	ⲏⲓ	ⲏⲉⲓ	N	XJ77-86	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61936732	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲉⲓ	N	XJ77-86	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61938137	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XJ77-86	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61938365	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XJ77-86	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0
+61939061	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XJ77-86	Rebecca Krawiec, Caroline T. Schroeder	shenoute.eagerness	2019-09-30	3.0.0

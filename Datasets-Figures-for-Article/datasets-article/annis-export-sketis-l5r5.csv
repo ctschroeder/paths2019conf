@@ -1,0 +1,184 @@
+1_id	1_span	1_anno_scriptorium::func	1_anno_scriptorium::lemma	1_anno_scriptorium::norm	1_anno_scriptorium::pos	2_id	2_span	2_anno_scriptorium::func	2_anno_scriptorium::lemma	2_anno_scriptorium::norm	2_anno_scriptorium::pos
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan575		aux	ⲁ	ⲁ	APST	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan577		det	ⲟⲩ	ⲩ	ART	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan579		nsubj	ⲕⲏⲡⲏ	ⲕⲏⲡⲏ	N	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan581		ccomp	ϩⲉ	ϩⲉ	V	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan585	ϩⲛ̇	case	ϩⲛ	ϩⲛ	PREP	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan592	ⲉ̇ⲧⲃⲉ	case	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	PREP
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan597		det	ⲟⲩ	ⲟⲩ	ART
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan601		obl	ⲁⲡⲟⲧ	ⲁⲡⲟⲧ	N
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan603		case	ⲛ	ⲛ	PREP
+salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan589		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.017.n148.cellar#sSpan608		nmod	ⲏⲣⲡ	ⲏⲣⲡ	N
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan20		obl	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	N	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan22		case	ⲛϭⲓ	ⲛϭⲓ	PTC	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan26		det	ⲡ	ⲡⲉ	ART	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan30		dislocated	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	N	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan32	ⲛ̇	case	ⲛ	ⲛ	PREP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan39	ϣⲁ	case	ϣⲁ	ϣⲁ	PREP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan43		det	ⲡ	ⲡ	ART
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan46	ⲁⲣⲭⲏⲉ̇ⲡⲓ̇ⲥ ⲕⲟⲡⲟⲥ	obl	ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ	ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ	N
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan36	ϣⲓ̇ ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan49		case	ⲛ	ⲛ	PREP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan68		aux	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	APREC	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan72		nsubj	ⲛⲧⲟϥ	ϥ	PPERS	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan74		advcl	ⲕⲧⲟ	ⲕⲧⲟ	V	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan76		obj	ⲛⲧⲟϥ	ϥ	PPERO	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan78	ⲉ̇	case	ⲉ	ⲉ	PREP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan86	⸱	punct	,	,	PUNCT
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan90		aux	ⲁ	ⲁ	APST
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan94		nsubj	ⲛⲧⲟⲟⲩ	ⲩ	PPERS
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan96		root	ϫⲛⲟⲩ	ϫⲛⲟⲩ	V
+salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan82		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.019.n161.presbyter#sSpan98		obj	ⲛⲧⲟϥ	ϥ	PPERO
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan2		aux	ⲁ	ⲁ	APST	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan13		nsubj	ⲛⲧⲟⲟⲩ	ⲩ	PPERS	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan15		root	ϫⲱ	ϫⲟⲟ	V	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan17		obj	ⲛⲧⲟⲥ	ⲥ	PPERO	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan19	ϩⲛ̇	case	ϩⲛ	ϩⲛ	PREP	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan25	ⲉⲧ̇ ⲃⲉ	case	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	PREP
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan31		obl	ⲁⲡⲁ	ⲁⲡⲁ	N
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan34		flat	ⲇⲁⲛⲓⲏⲗ	ⲇⲁⲛⲓⲏⲗ	NPROP
+salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan23		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.055.daniel.01#sSpan38		punct	.	.	PUNCT
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan41		obl	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	N	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan43		root	ⲉⲣⲉ	ⲉⲣⲉ	CCIRC	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan49		nsubj	ⲁⲡⲁ	ⲁⲡⲁ	N	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan52		flat	ⲁⲣⲥⲉⲛⲓⲟⲥ	ⲁⲣⲥⲉⲛⲓⲟⲥ	NPROP	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan56	ϩⲛ̇	case	ϩⲛ	ϩⲛ	PREP	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60	ϣⲓ̇ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60	ϣⲓ̇ⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan64	.	punct	.	.	PUNCT
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan68		mark	ⲉⲣⲉ	ⲉ	CCIRC
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan73		aux	ⲛⲉⲣⲉ	ⲛⲉ	CPRET
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan75		nsubj	ⲛⲧⲟϥ	ϥ	PPERS
+salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan60		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.056.daniel.06#sSpan77		root	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1462		root	ⲉⲓ	ⲉⲓ	V	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1465		case	ⲉ	ⲉ	PREP	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1469		det	ⲡⲉⲓ	ⲡⲉⲓ	PDEM	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1471		obl	ⲙⲁ	ⲙⲁ	N	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1473	ⲉ	case	ⲉ	ⲉ	PREP	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478	ϣⲓⲏ[ⲧ]	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478	ϣⲓⲏ[ⲧ]	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1481	·	punct	.	.	PUNCT
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1485		root	ⲡⲁⲓ	ⲧⲁⲓ	PDEM
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1493		advmod	ⲇⲉ	ⲇⲉ	PTC
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1497		cop	ⲡⲉ	ⲧⲉ	COP
+salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1478		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.101.macarius.01#sSpan1501		det	ⲡ	ⲧ	ART
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan12		nsubj	ⲛⲧⲟϥ	ϥ	PPERS	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan14		root	ⲃⲱⲕ	ⲃⲱⲕ	V	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan17		case	ⲛ	ⲛ	PREP	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan22		obl	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	N	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan24	ⲉ	case	ⲉ	ⲉ	PREP	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan31	ⲛ̄ϭⲓ	case	ⲛϭⲓ	ⲛϭⲓ	PTC
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan35		det	ⲡ	ⲡ	ART
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan39		dislocated	ⲙⲁⲕⲁⲣⲓⲟⲥ	ⲙⲁⲕⲁⲣⲓⲟⲥ	N
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan43		appos	ⲁⲡⲁ	ⲁⲡⲁ	N
+salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan29		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/AP.114.theophilus.02#sSpan48	ⲑⲉⲱ ⲫⲓⲗⲟⲥ	flat	ⲑⲉⲱⲫⲓⲗⲟⲥ	ⲑⲉⲱⲫⲓⲗⲟⲥ	NPROP
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan22		parataxis	ϣⲱⲡⲉ	ϣⲱⲡⲉ	V	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan26		case	ⲛ	ⲛ	PREP	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan30	ⲟⲩⲟ̇ ⲉⲓ̇ϣ	obl	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	N	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan33	ϩⲛ	case	ϩⲛ	ϩⲛ	PREP	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37	ϣⲓ̇ⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan39	ⲁⲩⲱ	cc	ⲁⲩⲱ	ⲁⲩⲱ	CONJ
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan43		aux	ⲁ	ⲁ	APST
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan48		nsubj	ⲛⲧⲟⲟⲩ	ⲩ	PPERS
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan50		conj	ϯ	ϯ	V
+salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan37		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/apophthegmata.patrum/ap.016.n144.festival#sSpan52		case	ⲛ	ⲛ	PREP
+salt:/life.cyrus/life.cyrus.01#sSpan133		case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan147		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan137		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.01#sSpan147		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan140	ⲈⲔ ⲔⲖⲎⲤⲒⲀ	nmod	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.01#sSpan147		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan143	Ⲛ	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan147	ϢⲒⲎⲦ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan147	ϢⲒⲎⲦ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan149	ⲚⲦ	mark	ⲉⲧⲉⲣⲉ	ⲛⲧ	CREL
+salt:/life.cyrus/life.cyrus.01#sSpan147		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan156		aux	ⲁ	ⲁ	APST
+salt:/life.cyrus/life.cyrus.01#sSpan147		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan158		nsubj	ⲛⲧⲟϥ	ϥ	PPERS
+salt:/life.cyrus/life.cyrus.01#sSpan147		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan160		acl	ⲙⲧⲟⲛ	ⲙⲧⲟⲛ	V
+salt:/life.cyrus/life.cyrus.01#sSpan147		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan162		case	ⲛ	ⲙⲙⲟ	PREP
+salt:/life.cyrus/life.cyrus.01#sSpan333	ⲡⲣⲉⲥ ⲃⲩⲧⲉⲣⲟⲥ	appos	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	N	salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan336		case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan340		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan343		nmod	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan345	ⲛ̅	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan349	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan349	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan351	·	punct	·	·	PUNCT
+salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan355		mark	ⲙⲛⲛⲥⲁ	ⲙⲛⲛⲥⲁ	PREP
+salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan359		advcl	ⲧⲣⲉ	ⲧⲣⲉ	ACAUS
+salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan361		nsubj	ⲛⲧⲟϥ	ϥ	PPERS
+salt:/life.cyrus/life.cyrus.01#sSpan349		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan364	ⲥⲕⲉ ⲡⲁⲍⲉ	xcomp	ⲥⲕⲉⲡⲁⲍⲉ	ⲥⲕⲉⲡⲁⲍⲉ	V
+salt:/life.cyrus/life.cyrus.01#sSpan1092		appos	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	N	salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan1094		case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan1099		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan1102		nmod	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan1104	ⲛ̅	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan1108	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan1108	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan1110	ⲡ	det	ⲡ	ⲡ	ART
+salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan1114		appos	ⲛⲟϭ	ⲛⲟϭ	N
+salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan1116		case	ⲛ	ⲛ	PREP
+salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan1120		nmod	ϫⲟⲓ	ϫⲟⲓ	N
+salt:/life.cyrus/life.cyrus.01#sSpan1108		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan1122		mark	ⲉⲧⲉⲣⲉ	ⲉⲧ	CREL
+salt:/life.cyrus/life.cyrus.01#sSpan2180		case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan2184		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan2187		nmod	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan2189		punct	·	·	PUNCT	salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan2193	ⲛ̅	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan2198	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan2198	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan2200	·	punct	·	·	PUNCT
+salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan2204		cc	ⲁⲩⲱ	ⲁⲩⲱ	CONJ
+salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan2208		det	ⲡ	ⲡ	ART
+salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan2212		conj	ⲛⲟϭ	ⲛⲟϭ	N
+salt:/life.cyrus/life.cyrus.01#sSpan2198		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan2214		case	ⲛ	ⲛ	PREP
+salt:/life.cyrus/life.cyrus.01#sSpan3599		case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan3603		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan3606		nmod	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan3608		punct	·	·	PUNCT	salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan3612	ⲛ̅	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan3616	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan3616	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan3618	·	punct	·	·	PUNCT
+salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan3622		advmod	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV
+salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan3629		advmod	ⲇⲉ	ⲇⲉ	PTC
+salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan3633		advmod	ⲙⲉϣⲁⲕ	ⲙⲉϣⲁⲕ	ADV
+salt:/life.cyrus/life.cyrus.01#sSpan3616		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan3638		discourse	ⲱ	ⲱ	PTC
+salt:/life.cyrus/life.cyrus.01#sSpan4538		case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan4542		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan4545		nmod	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan4547		punct	·	·	PUNCT	salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan4551	ⲛ̅	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan4555	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan4555	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan4557	ⲁⲩⲱ	cc	ⲁⲩⲱ	ⲁⲩⲱ	CONJ
+salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan4561		det	ⲡ	ⲡ	ART
+salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan4565		conj	ⲛⲟϭ	ⲛⲟϭ	N
+salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan4567		case	ⲛ	ⲛ	PREP
+salt:/life.cyrus/life.cyrus.01#sSpan4555		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan4571		nmod	ϫⲟⲓ	ϫⲟⲓ	N
+salt:/life.cyrus/life.cyrus.01#sSpan6467		appos	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	N	salt:/life.cyrus/life.cyrus.01#sSpan6483		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan6469		case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan6483		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan6473		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.01#sSpan6483		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan6477		nmod	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.01#sSpan6483		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan6479	ⲛ̅	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.01#sSpan6483	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.01#sSpan6483	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.01#sSpan6485	⁛—	punct	⁛—	⁛—	PUNCT
+salt:/life.cyrus/life.cyrus.02#sSpan4705		root	ⲃⲱⲕ	ⲃⲱⲕ	V	salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4708		case	ⲉ	ⲉ	PREP	salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4712		det	ⲡⲁ	ⲡⲁ	PPOS	salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4715		obl	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	N	salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4717	ϩⲛ̅	case	ϩⲛ	ϩⲛ	PREP	salt:/life.cyrus/life.cyrus.02#sSpan4721	ϣⲓⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4721	ϣⲓⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4723	ⲁ	aux	ⲁ	ⲁ	APST
+salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4728		nsubj	ⲁⲛⲟⲕ	ⲓ	PPERS
+salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4730		parataxis	ⲥϩⲁⲓ	ⲥϩⲁⲓ	V
+salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4732		case	ⲛ	ⲙ	PREP
+salt:/life.cyrus/life.cyrus.02#sSpan4721		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4736		det	ⲡ	ⲡ	ART
+salt:/life.cyrus/life.cyrus.02#sSpan4775		obj	ⲛⲧⲟϥ	ϥ	PPERO	salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4777		case	ϩⲛ	ϩⲛ	PREP	salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4781		det	ⲡ	ⲧ	ART	salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4784		obl	ⲉⲕⲕⲗⲏⲥⲓⲁ	ⲉⲕⲕⲗⲏⲥⲓⲁ	N	salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4786	ⲛ̅	case	ⲛ	ⲛ	PREP	salt:/life.cyrus/life.cyrus.02#sSpan4790	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.cyrus/life.cyrus.02#sSpan4790	ϣⲓⲏⲧ	nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4792	·	punct	·	·	PUNCT
+salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4796		mark	ⲉⲣⲉ	ⲉ	CCIRC
+salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4800		nsubj	ⲛⲧⲟⲟⲩ	ⲩ	PPERS
+salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4802		advcl	ϩⲏⲩ	ϩⲏⲩ	VSTAT
+salt:/life.cyrus/life.cyrus.02#sSpan4790		nmod	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.cyrus/life.cyrus.02#sSpan4804		case	ⲙⲛ	ⲙⲛ	PREP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4587		det	ⲡⲉⲩ	ⲡⲉⲩ	PPOS	salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4591		conj	ⲙⲁ	ⲙⲁ	N	salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4593		case	ⲛ	ⲛ	PREP	salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4597		nmod	ϣⲱⲡⲉ	ϣⲱⲡⲉ	N	salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4599	ⲡⲉ	cop	ⲡⲉ	ⲡⲉ	COP	salt:/life.onnophrius/life.onnophrius.04#sSpan4603	ϣⲓⲏⲧ	nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4603	ϣⲓⲏⲧ	nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4607	·	punct	·	·	PUNCT
+salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4611		aux	ⲁ	ⲁ	APST
+salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4617		nsubj	ⲛⲧⲟⲟⲩ	ⲩ	PPERS
+salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4619		root	ϭⲉⲡⲏ	ϭⲉⲡⲏ	V
+salt:/life.onnophrius/life.onnophrius.04#sSpan4603		nsubj	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4623		advmod	ⲇⲉ	ⲇⲉ	PTC
+salt:/life.onnophrius/life.onnophrius.04#sSpan4716		aux	ⲁ	ⲁ	APST	salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4722		nsubj	ⲛⲧⲟⲟⲩ	ⲩ	PPERS	salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4724		root	ϫⲟⲟⲩ	ϫⲟⲟⲩ	V	salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4726		obj	ⲛⲧⲟϥ	ϥ	PPERO	salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4728	ⲉ	case	ⲉ	ⲉ	PREP	salt:/life.onnophrius/life.onnophrius.04#sSpan4732	ϣⲓⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP
+salt:/life.onnophrius/life.onnophrius.04#sSpan4732	ϣⲓⲏⲧ	obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4734	·	punct	·	·	PUNCT
+salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4738		aux	ⲁ	ⲁ	APST
+salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4744		nsubj	ⲛⲧⲟⲟⲩ	ⲩ	PPERS
+salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4746		root	ⲕⲱ	ⲕⲁⲁ	V
+salt:/life.onnophrius/life.onnophrius.04#sSpan4732		obl	ϣⲓⲏⲧ	ϣⲓⲏⲧ	NPROP	salt:/life.onnophrius/life.onnophrius.04#sSpan4748		obj	ⲛⲧⲟϥ	ϥ	PPERO
+
