@@ -1,0 +1,108 @@
+1_id	1_span	1_anno_scriptorium:func	1_anno_scriptorium:lemma	1_anno_scriptorium:norm	1_anno_scriptorium:pos	1_meta_annis:doc	1_meta_annotation	1_meta_corpus	1_meta_version_date	1_meta_version_n	2_id	2_span	2_anno_scriptorium:func	2_anno_scriptorium:lemma	2_anno_scriptorium:norm	2_anno_scriptorium:pos
+61647293	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	1Cor_01	Elizabeth Platte, David Sriboonreuang, Christine Luckritz Marquis, Mitchell Abrams, Lance Martin, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0	61647279	ⲙ	case	ⲛ	ⲙ	PREP
+61647293	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	1Cor_01	Elizabeth Platte, David Sriboonreuang, Christine Luckritz Marquis, Mitchell Abrams, Lance Martin, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0	61647285	ⲡ	det	ⲡ	ⲡ	ART
+61647293	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	1Cor_01	Elizabeth Platte, David Sriboonreuang, Christine Luckritz Marquis, Mitchell Abrams, Lance Martin, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0	61647289	ⲕⲉ	det	ⲕⲉ	ⲕⲉ	ART
+61647293	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	1Cor_01	Elizabeth Platte, David Sriboonreuang, Christine Luckritz Marquis, Mitchell Abrams, Lance Martin, Caroline T. Schroeder, Amir Zeldes	sahidica.1corinthians	2019-09-30	3.0.0	61647304	ⲥⲧⲉⲫⲁⲛⲁ	nmod	ⲥⲧⲉⲫⲁⲛⲁ	ⲥⲧⲉⲫⲁⲛⲁ	N
+61689404	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	GF31-32	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-10-24	3.0.1	61689392	ⲉⲧ	mark	ⲉⲧⲉⲣⲉ	ⲉⲧ	CREL
+61689404	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	GF31-32	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-10-24	3.0.1	61689396	ϩⲙ	case	ϩⲛ	ϩⲙ	PREP
+61689404	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	GF31-32	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-10-24	3.0.1	61689400	ⲡ	det	ⲡ	ⲡ	ART
+61689404	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	GF31-32	Rebecca Krawiec, Caroline T. Schroeder, Amir Zeldes	shenoute.eagerness	2019-10-24	3.0.1	61689422	ⲛⲟⲩⲧⲉ	nmod	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	N
+61694530	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_01	Caroline T. Schroeder, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61694520	ⲉ	case	ⲉ	ⲉ	PREP
+61694530	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_01	Caroline T. Schroeder, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61694526	ⲡ	det	ⲡ	ⲡ	ART
+61694530	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_01	Caroline T. Schroeder, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61694541	ⲥⲓⲙⲱⲛ	nmod	ⲥⲓⲙⲱⲛ	ⲥⲓⲙⲱⲛ	NPROP
+61695082	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	Mark_01	Caroline T. Schroeder, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61695072	ⲙ	case	ⲛ	ⲙ	PREP
+61695082	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	Mark_01	Caroline T. Schroeder, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61695078	ⲡ	det	ⲡ	ⲡ	ART
+61696904	ⲏⲉⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61696886	ϫⲉ	mark	ϫⲉ	ϫⲉ	CONJ
+61696904	ⲏⲉⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61696892	ϥ	nsubj	ⲛⲧⲟϥ	ϥ	PPERS
+61696904	ⲏⲉⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61696896	ϩⲛ	case	ϩⲛ	ϩⲛ	PREP
+61696904	ⲏⲉⲓ	ccomp	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61696900	ⲟⲩ	det	ⲟⲩ	ⲟⲩ	ART
+61698277	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61698267	ⲉ	case	ⲉ	ⲉ	PREP
+61698277	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61698273	ⲡⲉⲕ	det	ⲡⲉⲕ	ⲡⲉⲕ	PPOS
+61698918	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61698908	ϩⲙ	case	ϩⲛ	ϩⲙ	PREP
+61698918	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61698914	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61700909	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61700899	ⲉ	case	ⲉ	ⲉ	PREP
+61700909	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61700905	ⲡ	det	ⲡ	ⲡ	ART
+61700909	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_02	Caroline T. Schroeder, Mitchell Abrams, Elizabeth Davidson, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61700923	ⲛⲟⲩⲧⲉ	nmod	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	N
+61703924	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61703914	ⲉ	case	ⲉ	ⲉ	PREP
+61703924	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61703920	ⲡ	det	ⲡ	ⲡ	ART
+61704632	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61704628	ⲟⲩ	det	ⲟⲩ	ⲟⲩ	ART
+61704670	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61704666	ⲡ	det	ⲡ	ⲡ	ART
+61704670	ⲏⲉⲓ	nsubj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61704680	ⲙⲙⲁⲩ	acl	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV
+61704902	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61704892	ⲉ	case	ⲉ	ⲉ	PREP
+61704902	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61704898	ⲡ	det	ⲡ	ⲡ	ART
+61704902	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61704916	ϫⲱⲱⲣⲉ	nmod	ϫⲱⲱⲣⲉ	ϫⲱⲱⲣⲉ	V
+61705034	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61705024	ⲙ	case	ⲛ	ⲙ	PREP
+61705034	ⲏⲉⲓ	obj	ⲏⲓ	ⲏⲓ	N	Mark_03	Caroline T. Schroeder, Elizabeth Davidson, David Sriboonreuang, Mitchell Abrams, Lance Martin, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61705030	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61714757	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_05	Caroline T. Schroeder, David Sriboonreuang, Elizabeth Davidson, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61714747	ⲉ	case	ⲉ	ⲉ	PREP
+61714757	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_05	Caroline T. Schroeder, David Sriboonreuang, Elizabeth Davidson, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61714753	ⲡⲉⲕ	det	ⲡⲉⲕ	ⲡⲉⲕ	PPOS
+61717585	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_05	Caroline T. Schroeder, David Sriboonreuang, Elizabeth Davidson, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61717575	ⲉ	case	ⲉ	ⲉ	PREP
+61717585	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_05	Caroline T. Schroeder, David Sriboonreuang, Elizabeth Davidson, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61717581	ⲡ	det	ⲡ	ⲡ	ART
+61717585	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_05	Caroline T. Schroeder, David Sriboonreuang, Elizabeth Davidson, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61717600	ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ	nmod	ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ	ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ	N
+61719365	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲓ	N	Mark_06	Caroline T. Schroeder, David Sriboonreuang, Mitchell Abrams, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61719355	ⲙⲛ	cc	ⲙⲛ	ⲙⲛ	PREP
+61719365	ⲏⲉⲓ	conj	ⲏⲓ	ⲏⲓ	N	Mark_06	Caroline T. Schroeder, David Sriboonreuang, Mitchell Abrams, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61719361	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61720102	ⲏⲉⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	Mark_06	Caroline T. Schroeder, David Sriboonreuang, Mitchell Abrams, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61720096	ⲡ	det	ⲡ	ⲡ	ART
+61720102	ⲏⲉⲓ	dislocated	ⲏⲓ	ⲏⲓ	N	Mark_06	Caroline T. Schroeder, David Sriboonreuang, Mitchell Abrams, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61720120	ⲃⲱⲕ	acl	ⲃⲱⲕ	ⲃⲱⲕ	V
+61729872	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61729862	ⲉ	case	ⲉ	ⲉ	PREP
+61729872	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61729868	ⲡ	det	ⲡ	ⲡ	ART
+61731017	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61731007	ⲉ	case	ⲉ	ⲉ	PREP
+61731017	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61731013	ⲡ	det	ⲡ	ⲡ	ART
+61731921	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61731911	ⲉ	case	ⲉ	ⲉ	PREP
+61731921	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_07	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61731917	ⲡⲉⲥ	det	ⲡⲉⲥ	ⲡⲉⲥ	PPOS
+61736680	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_08	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61736670	ⲉ	case	ⲉ	ⲉ	PREP
+61736680	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_08	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61736676	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61743489	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_09	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61743479	ⲉ	case	ⲉ	ⲉ	PREP
+61743489	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_09	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61743485	ⲡ	det	ⲡ	ⲡ	ART
+61744236	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_09	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61744226	ⲉ	case	ⲉ	ⲉ	PREP
+61744236	ⲏⲉⲓ	obl	ⲏⲓ	ⲏⲓ	N	Mark_09	Christine Luckritz Marquis, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes	sahidica.mark	2019-09-30	3.0.0	61744232	ⲡ	det	ⲡ	ⲡ	ART
+61748164	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61748153	ⲙ̄	case	ⲛ	ⲙ	PREP
+61748164	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61748159	ⲡⲉⲕ	det	ⲡⲉⲕ	ⲡⲉⲕ	PPOS
+61748300	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61748290	ⲙ̄	case	ⲛ	ⲙ	PREP
+61748300	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61748296	ⲡⲉⲕ	det	ⲡⲉⲕ	ⲡⲉⲕ	PPOS
+61750353	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61750335	ⲉ ⲃⲟⲗ	case	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV
+61750353	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61750349	ⲡⲉⲕ	det	ⲡⲉⲕ	ⲡⲉⲕ	PPOS
+61750353	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61750368	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N
+61750368	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61750357	ⲙ︤ⲛ︥	cc	ⲙⲛ	ⲙⲛ	PREP
+61750368	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61750364	ⲡ	det	ⲡ	ⲡ	ART
+61750368	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61750382	ⲉⲓⲟ̂ⲧⲉ⳿	nmod	ⲉⲓⲱⲧ	ⲉⲓⲟⲧⲉ	N
+61752323	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61752312	ϩ︤ⲛ︥	case	ϩⲛ	ϩⲛ	PREP
+61752323	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61752319	ⲛ̄	det	ⲡ	ⲛ	ART
+61752323	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61752338	ϩⲉⲗ ⲗⲏⲛ⳿	nmod	ϩⲉⲗⲗⲏⲛ	ϩⲉⲗⲗⲏⲛ	N
+61753062	ⲏⲓ̈	obj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61753057	ⲛⲁ	det	ⲡⲁ	ⲛⲁ	PPOS
+61753151	ⲏⲓ̈	parataxis	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61753143	ⲡⲉⲕ	det	ⲡⲉⲕ	ⲡⲉⲕ	PPOS
+61753151	ⲏⲓ̈	parataxis	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61753167	ϭ︤ⲛ︥	parataxis	ϭⲓⲛⲉ	ϭⲛ	V
+61753329	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61753315	ⲉⲧ	mark	ⲉⲧⲉⲣⲉ	ⲉⲧ	CREL
+61753329	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61753321	ϩ︤ⲙ︥	case	ϩⲛ	ϩⲙ	PREP
+61753329	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61753325	ⲡⲉⲕ	det	ⲡⲉⲕ	ⲡⲉⲕ	PPOS
+61754204	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61754186	ⲉⲃⲟⲗ⳿	case	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV
+61754204	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61754200	ⲛⲉⲩ	det	ⲡⲉⲩ	ⲛⲉⲩ	PPOS
+61757295	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61757285	ⲉ	case	ⲉ	ⲉ	PREP
+61757295	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61757291	ⲡ	det	ⲡ	ⲡ	ART
+61757796	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61757773	,	punct	,	,	PUNCT
+61757796	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61757779	ⲙ︤ⲛ︥	cc	ⲙⲛ	ⲙⲛ	PREP
+61757796	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61757787	ⲛ̄	det	ⲡ	ⲛ	ART
+61757796	ⲏⲓ̈	conj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61757792	ⲕⲉ	det	ⲕⲉ	ⲕⲉ	ART
+61757942	ⲏⲓ̈	obj	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61757935	ⲛⲉⲩ	det	ⲡⲉⲩ	ⲛⲉⲩ	PPOS
+61760468	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61760458	ⲙ̄	case	ⲛ	ⲙ	PREP
+61760468	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61760464	ⲡ	det	ⲡ	ⲡ	ART
+61760468	ⲏⲓ̈	nmod	ⲏⲓ	ⲏⲓ	N	XH204-216	Amir Zeldes, Caroline T. Schroeder, Lance Martin, David Sriboonreuang	shenoute.fox	2019-09-30	3.0.0	61760482	ϫⲟ ⲉⲓⲥ	nmod	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	N
+61785251	ⲏⲓ̅	obl	ⲏⲓ	ⲏⲓ	N	dormition.john.mercad	'NULL'	'NULL'	'NULL'	'NULL'	61785235	ⲉⲃⲟⲗ	case	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV
+61785251	ⲏⲓ̅	obl	ⲏⲓ	ⲏⲓ	N	dormition.john.mercad	'NULL'	'NULL'	'NULL'	'NULL'	61785247	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61827461	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61827456	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61830068	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61830058	ⲙ̄	case	ⲛ	ⲙ	PREP
+61830068	ⲏⲓ	nmod	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61830064	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61831021	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61830999	·	punct	·	·	PUNCT
+61831021	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61831005	ⲙⲛ̄	cc	ⲙⲛ	ⲙⲛ	PREP
+61831021	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61831011	ⲙⲏⲧ	nummod	ⲙⲏⲧ	ⲙⲏⲧ	NUM
+61831021	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61831015	ⲛ̄	case	ⲛ	ⲛ	PREP
+61831021	ⲏⲓ	conj	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61831069	ⲟⲩ	acl	ⲛⲧⲟⲟⲩ	ⲟⲩ	PPERO
+61831630	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61831614	ⲛ̄ϩⲟⲩⲛ	case	ⲛϩⲟⲩⲛ	ⲛϩⲟⲩⲛ	ADV
+61831630	ⲏⲓ	obl	ⲏⲓ	ⲏⲓ	N	martyrdom.victor.01	Caroline T. Schroeder, Elizabeth Platte, Mitchell Abrams, Israel Avrahamy, Asael Benyami, Yinon Kahan, Oran Szachter, Lance Martin, Amir Zeldes	martyrdom.victor	2019-09-30	3.0.0	61831626	ⲡⲉϥ	det	ⲡⲉϥ	ⲡⲉϥ	PPOS
+61838614	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	on_vigilance	So Miyagawa, Julien Delhez, Heike Behlmer, Amir Zeldes, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61838604	ⲉ	case	ⲉ	ⲉ	PREP
+61838614	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	on_vigilance	So Miyagawa, Julien Delhez, Heike Behlmer, Amir Zeldes, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61838610	ⲟⲩ	det	ⲟⲩ	ⲟⲩ	ART
+61838614	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	on_vigilance	So Miyagawa, Julien Delhez, Heike Behlmer, Amir Zeldes, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61838638	ⲙⲁ̂	conj	ⲙⲁ	ⲙⲁ	N
+61838614	ⲏⲓ̈	obl	ⲏⲓ	ⲏⲓ	N	on_vigilance	So Miyagawa, Julien Delhez, Heike Behlmer, Amir Zeldes, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61838648	ⲙ︤ⲛ︥	acl	ⲙⲛ	ⲙⲛ	EXIST
+61855547	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	to_aphthonia	Amir Zeldes, David Sriboonreuang, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61855528	ⲉ	mark	ⲉⲧⲉⲣⲉ	ⲉ	CREL
+61855547	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	to_aphthonia	Amir Zeldes, David Sriboonreuang, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61855534	ⲥ	nsubj	ⲛⲧⲟⲥ	ⲥ	PPERS
+61855547	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	to_aphthonia	Amir Zeldes, David Sriboonreuang, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61855538	ϩ︤ⲙ︥	case	ϩⲛ	ϩⲙ	PREP
+61855547	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	to_aphthonia	Amir Zeldes, David Sriboonreuang, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61855543	ⲡ	det	ⲡ	ⲡ	ART
+61855547	ⲏⲓ̈	acl	ⲏⲓ	ⲏⲓ	N	to_aphthonia	Amir Zeldes, David Sriboonreuang, Caroline T. Schroeder	besa.letters	2019-09-30	3.0.0	61855557	ⲉ	nmod	ⲛⲧⲟ	ⲉ	PPERO

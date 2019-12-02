@@ -1,0 +1,14 @@
+#|meta::corpus	count
+shenoute.eagerness	42
+shenoute.dirt	14
+shenoute.fox	13
+life.longinus.lucius	8
+martyrdom.victor	4
+johannes.canons	4
+shenoute.a22	3
+besa.letters	2
+apophthegmata.patrum	2
+pseudo.theophilus	1
+life.onnophrius	1
+shenoute.abraham	1
+life.cyrus	1
